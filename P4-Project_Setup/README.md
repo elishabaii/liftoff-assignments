@@ -75,29 +75,4 @@ To complete this project we will need to combine both soft and hard skills in or
 Project Tracker
 Hidden Gems on Trello
 
-About
-No description, website, or topics provided.
-Resources
- Readme
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Contributors 3
-@ThordisLia
-ThordisLia
-@tvalli3
-tvalli3
-@madelyniris
-madelyniris Madelyn Munsell
-Languages
-JavaScript
-94.8%
- 
-HTML
-2.8%
- 
-Java
-2.4%
+https://trello.com/b/WP5zQwdf
